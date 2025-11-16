@@ -1,0 +1,1378 @@
+state,year,disposable_income_per_capita
+Alabama,1998,20103
+Alaska,1998,26112
+Arizona,1998,21147
+Arkansas,1998,18836
+California,1998,24763
+Colorado,1998,25540
+Connecticut,1998,30870
+Delaware,1998,25109
+District of Columbia,1998,32269
+Florida,1998,23625
+Georgia,1998,22597
+Hawaii,1998,23445
+Idaho,1998,20140
+Illinois,1998,25616
+Indiana,1998,22420
+Iowa,1998,22207
+Kansas,1998,22874
+Kentucky,1998,19587
+Louisiana,1998,19854
+Maine,1998,21790
+Maryland,1998,26691
+Massachusetts,1998,27143
+Michigan,1998,23429
+Minnesota,1998,24783
+Mississippi,1998,18195
+Missouri,1998,22247
+Montana,1998,19018
+Nebraska,1998,23220
+Nevada,1998,25555
+New Hampshire,1998,26587
+New Jersey,1998,29365
+New Mexico,1998,19021
+New York,1998,26876
+North Carolina,1998,22021
+North Dakota,1998,21017
+Ohio,1998,22760
+Oklahoma,1998,19382
+Oregon,1998,22307
+Pennsylvania,1998,23633
+Rhode Island,1998,23920
+South Carolina,1998,20157
+South Dakota,1998,22009
+Tennessee,1998,22532
+Texas,1998,22613
+Utah,1998,19421
+Vermont,1998,22612
+Virginia,1998,24829
+Washington,1998,25570
+West Virginia,1998,18276
+Wisconsin,1998,23210
+Wyoming,1998,22463
+Alabama,1999,20648
+Alaska,1999,26760
+Arizona,1999,21761
+Arkansas,1999,19433
+California,1999,25769
+Colorado,1999,26610
+Connecticut,1999,32285
+Delaware,1999,26670
+District of Columbia,1999,33392
+Florida,1999,24256
+Georgia,1999,23501
+Hawaii,1999,24284
+Idaho,1999,20843
+Illinois,1999,26496
+Indiana,1999,23124
+Iowa,1999,22651
+Kansas,1999,23438
+Kentucky,1999,20243
+Louisiana,1999,20293
+Maine,1999,22635
+Maryland,1999,27950
+Massachusetts,1999,28655
+Michigan,1999,24498
+Minnesota,1999,25906
+Mississippi,1999,18643
+Missouri,1999,22913
+Montana,1999,19207
+Nebraska,1999,24164
+Nevada,1999,26453
+New Hampshire,1999,27743
+New Jersey,1999,30230
+New Mexico,1999,19142
+New York,1999,28101
+North Carolina,1999,22717
+North Dakota,1999,21352
+Ohio,1999,23410
+Oklahoma,1999,19691
+Oregon,1999,22660
+Pennsylvania,1999,24568
+Rhode Island,1999,24718
+South Carolina,1999,20831
+South Dakota,1999,22780
+Tennessee,1999,23131
+Texas,1999,23430
+Utah,1999,20079
+Vermont,1999,23679
+Virginia,1999,25999
+Washington,1999,26365
+West Virginia,1999,18782
+Wisconsin,1999,23981
+Wyoming,1999,23898
+Alabama,2000,21527
+Alaska,2000,28557
+Arizona,2000,22931
+Arkansas,2000,20168
+California,2000,27424
+Colorado,2000,28739
+Connecticut,2000,34766
+Delaware,2000,29217
+District of Columbia,2000,36365
+Florida,2000,25680
+Georgia,2000,24815
+Hawaii,2000,25593
+Idaho,2000,22016
+Illinois,2000,28299
+Indiana,2000,24587
+Iowa,2000,24173
+Kansas,2000,24519
+Kentucky,2000,21739
+Louisiana,2000,21391
+Maine,2000,23993
+Maryland,2000,30019
+Massachusetts,2000,30947
+Michigan,2000,26131
+Minnesota,2000,27520
+Mississippi,2000,19541
+Missouri,2000,24288
+Montana,2000,20277
+Nebraska,2000,25384
+Nevada,2000,27743
+New Hampshire,2000,30496
+New Jersey,2000,32751
+New Mexico,2000,20534
+New York,2000,29930
+North Carolina,2000,23734
+North Dakota,2000,23329
+Ohio,2000,24546
+Oklahoma,2000,21224
+Oregon,2000,24061
+Pennsylvania,2000,26217
+Rhode Island,2000,26192
+South Carolina,2000,22092
+South Dakota,2000,24167
+Tennessee,2000,24299
+Texas,2000,24894
+Utah,2000,21088
+Vermont,2000,25326
+Virginia,2000,27760
+Washington,2000,28072
+West Virginia,2000,19902
+Wisconsin,2000,25421
+Wyoming,2000,25465
+Alabama,2001,22243
+Alaska,2001,29933
+Arizona,2001,23670
+Arkansas,2001,21202
+California,2001,28677
+Colorado,2001,29944
+Connecticut,2001,36660
+Delaware,2001,32112
+District of Columbia,2001,37650
+Florida,2001,26726
+Georgia,2001,25745
+Hawaii,2001,26532
+Idaho,2001,22738
+Illinois,2001,29510
+Indiana,2001,25065
+Iowa,2001,24942
+Kansas,2001,25399
+Kentucky,2001,22379
+Louisiana,2001,22933
+Maine,2001,25272
+Maryland,2001,31389
+Massachusetts,2001,32755
+Michigan,2001,26699
+Minnesota,2001,28635
+Mississippi,2001,20625
+Missouri,2001,24979
+Montana,2001,21108
+Nebraska,2001,26657
+Nevada,2001,28441
+New Hampshire,2001,32264
+New Jersey,2001,33807
+New Mexico,2001,21832
+New York,2001,30598
+North Carolina,2001,24111
+North Dakota,2001,23824
+Ohio,2001,25290
+Oklahoma,2001,22501
+Oregon,2001,24830
+Pennsylvania,2001,27399
+Rhode Island,2001,27497
+South Carolina,2001,22689
+South Dakota,2001,24934
+Tennessee,2001,24727
+Texas,2001,26251
+Utah,2001,21841
+Vermont,2001,27003
+Virginia,2001,28945
+Washington,2001,28962
+West Virginia,2001,21181
+Wisconsin,2001,26711
+Wyoming,2001,27252
+Alabama,2002,23193
+Alaska,2002,31592
+Arizona,2002,24572
+Arkansas,2002,21949
+California,2002,29843
+Colorado,2002,30322
+Connecticut,2002,37949
+Delaware,2002,33512
+District of Columbia,2002,39006
+Florida,2002,27685
+Georgia,2002,26745
+Hawaii,2002,28089
+Idaho,2002,23788
+Illinois,2002,30451
+Indiana,2002,25741
+Iowa,2002,26001
+Kansas,2002,26072
+Kentucky,2002,23224
+Louisiana,2002,23928
+Maine,2002,26448
+Maryland,2002,32956
+Massachusetts,2002,33862
+Michigan,2002,27173
+Minnesota,2002,29564
+Mississippi,2002,21303
+Missouri,2002,26008
+Montana,2002,22052
+Nebraska,2002,27510
+Nevada,2002,28757
+New Hampshire,2002,33313
+New Jersey,2002,35111
+New Mexico,2002,22892
+New York,2002,31703
+North Carolina,2002,24689
+North Dakota,2002,24881
+Ohio,2002,26111
+Oklahoma,2002,23399
+Oregon,2002,25326
+Pennsylvania,2002,28464
+Rhode Island,2002,29059
+South Carolina,2002,23564
+South Dakota,2002,25237
+Tennessee,2002,25747
+Texas,2002,26772
+Utah,2002,22575
+Vermont,2002,27918
+Virginia,2002,30199
+Washington,2002,29862
+West Virginia,2002,22254
+Wisconsin,2002,27822
+Wyoming,2002,28577
+Alabama,2003,24330
+Alaska,2003,33081
+Arizona,2003,25739
+Arkansas,2003,23360
+California,2003,31148
+Colorado,2003,31014
+Connecticut,2003,38568
+Delaware,2003,34060
+District of Columbia,2003,39835
+Florida,2003,28968
+Georgia,2003,27670
+Hawaii,2003,29360
+Idaho,2003,24375
+Illinois,2003,31328
+Indiana,2003,26467
+Iowa,2003,26683
+Kansas,2003,27082
+Kentucky,2003,23938
+Louisiana,2003,24818
+Maine,2003,27812
+Maryland,2003,34399
+Massachusetts,2003,34822
+Michigan,2003,28054
+Minnesota,2003,31084
+Mississippi,2003,22222
+Missouri,2003,27126
+Montana,2003,23718
+Nebraska,2003,29397
+Nevada,2003,29853
+New Hampshire,2003,33969
+New Jersey,2003,36146
+New Mexico,2003,23883
+New York,2003,32400
+North Carolina,2003,25721
+North Dakota,2003,27410
+Ohio,2003,27116
+Oklahoma,2003,24712
+Oregon,2003,26203
+Pennsylvania,2003,29610
+Rhode Island,2003,30638
+South Carolina,2003,24360
+South Dakota,2003,27819
+Tennessee,2003,26828
+Texas,2003,27668
+Utah,2003,23274
+Vermont,2003,29276
+Virginia,2003,31960
+Washington,2003,31129
+West Virginia,2003,22681
+Wisconsin,2003,28660
+Wyoming,2003,30592
+Alabama,2004,25962
+Alaska,2004,34194
+Arizona,2004,27300
+Arkansas,2004,24746
+California,2004,32732
+Colorado,2004,31909
+Connecticut,2004,40352
+Delaware,2004,34710
+District of Columbia,2004,43265
+Florida,2004,30534
+Georgia,2004,28812
+Hawaii,2004,30947
+Idaho,2004,25803
+Illinois,2004,32556
+Indiana,2004,27667
+Iowa,2004,28871
+Kansas,2004,27766
+Kentucky,2004,25319
+Louisiana,2004,25835
+Maine,2004,29098
+Maryland,2004,36402
+Massachusetts,2004,36660
+Michigan,2004,28939
+Minnesota,2004,32902
+Mississippi,2004,23561
+Missouri,2004,28465
+Montana,2004,25527
+Nebraska,2004,30527
+Nevada,2004,31486
+New Hampshire,2004,35869
+New Jersey,2004,37666
+New Mexico,2004,25090
+New York,2004,33663
+North Carolina,2004,27534
+North Dakota,2004,27684
+Ohio,2004,28161
+Oklahoma,2004,26624
+Oregon,2004,27506
+Pennsylvania,2004,31322
+Rhode Island,2004,32121
+South Carolina,2004,25394
+South Dakota,2004,29673
+Tennessee,2004,28182
+Texas,2004,28591
+Utah,2004,24429
+Vermont,2004,30854
+Virginia,2004,33753
+Washington,2004,33205
+West Virginia,2004,23522
+Wisconsin,2004,29863
+Wyoming,2004,32744
+Alabama,2005,26961
+Alaska,2005,35787
+Arizona,2005,28727
+Arkansas,2005,25469
+California,2005,33772
+Colorado,2005,33187
+Connecticut,2005,41636
+Delaware,2005,34406
+District of Columbia,2005,44991
+Florida,2005,31839
+Georgia,2005,29696
+Hawaii,2005,32320
+Idaho,2005,26187
+Illinois,2005,33410
+Indiana,2005,28126
+Iowa,2005,29352
+Kansas,2005,28908
+Kentucky,2005,26110
+Louisiana,2005,27607
+Maine,2005,29362
+Maryland,2005,37606
+Massachusetts,2005,37803
+Michigan,2005,29372
+Minnesota,2005,33137
+Mississippi,2005,24729
+Missouri,2005,28956
+Montana,2005,26892
+Nebraska,2005,31085
+Nevada,2005,33539
+New Hampshire,2005,36527
+New Jersey,2005,38347
+New Mexico,2005,26117
+New York,2005,34473
+North Carolina,2005,28723
+North Dakota,2005,29101
+Ohio,2005,28711
+Oklahoma,2005,28666
+Oregon,2005,28091
+Pennsylvania,2005,32167
+Rhode Island,2005,32674
+South Carolina,2005,26271
+South Dakota,2005,31002
+Tennessee,2005,28889
+Texas,2005,30093
+Utah,2005,25631
+Vermont,2005,31046
+Virginia,2005,35100
+Washington,2005,33652
+West Virginia,2005,24407
+Wisconsin,2005,30420
+Wyoming,2005,34859
+Alabama,2006,28086
+Alaska,2006,37430
+Arizona,2006,30674
+Arkansas,2006,26599
+California,2006,35966
+Colorado,2006,34870
+Connecticut,2006,44621
+Delaware,2006,35794
+District of Columbia,2006,47151
+Florida,2006,33831
+Georgia,2006,30641
+Hawaii,2006,34060
+Idaho,2006,27785
+Illinois,2006,35188
+Indiana,2006,29370
+Iowa,2006,30791
+Kansas,2006,31484
+Kentucky,2006,27316
+Louisiana,2006,30569
+Maine,2006,30595
+Maryland,2006,39102
+Massachusetts,2006,40412
+Michigan,2006,30012
+Minnesota,2006,34321
+Mississippi,2006,25499
+Missouri,2006,30225
+Montana,2006,28551
+Nebraska,2006,31989
+Nevada,2006,34940
+New Hampshire,2006,38576
+New Jersey,2006,40904
+New Mexico,2006,27450
+New York,2006,36589
+North Carolina,2006,30355
+North Dakota,2006,30086
+Ohio,2006,29981
+Oklahoma,2006,31151
+Oregon,2006,30073
+Pennsylvania,2006,33405
+Rhode Island,2006,34275
+South Carolina,2006,27621
+South Dakota,2006,32046
+Tennessee,2006,29997
+Texas,2006,31952
+Utah,2006,27532
+Vermont,2006,32677
+Virginia,2006,36802
+Washington,2006,35701
+West Virginia,2006,25892
+Wisconsin,2006,31848
+Wyoming,2006,38507
+Alabama,2007,29148
+Alaska,2007,39647
+Arizona,2007,31718
+Arkansas,2007,27920
+California,2007,37131
+Colorado,2007,36275
+Connecticut,2007,47307
+Delaware,2007,36453
+District of Columbia,2007,49912
+Florida,2007,34886
+Georgia,2007,31299
+Hawaii,2007,35809
+Idaho,2007,28854
+Illinois,2007,36778
+Indiana,2007,30029
+Iowa,2007,32493
+Kansas,2007,33334
+Kentucky,2007,28111
+Louisiana,2007,32616
+Maine,2007,31600
+Maryland,2007,40301
+Massachusetts,2007,41770
+Michigan,2007,30838
+Minnesota,2007,35867
+Mississippi,2007,27004
+Missouri,2007,31253
+Montana,2007,30087
+Nebraska,2007,34040
+Nevada,2007,35362
+New Hampshire,2007,39723
+New Jersey,2007,42774
+New Mexico,2007,28578
+New York,2007,38820
+North Carolina,2007,31777
+North Dakota,2007,32976
+Ohio,2007,31114
+Oklahoma,2007,31738
+Oregon,2007,31245
+Pennsylvania,2007,35124
+Rhode Island,2007,35784
+South Carolina,2007,28805
+South Dakota,2007,35074
+Tennessee,2007,30900
+Texas,2007,33161
+Utah,2007,29017
+Vermont,2007,34273
+Virginia,2007,38329
+Washington,2007,37954
+West Virginia,2007,26681
+Wisconsin,2007,33106
+Wyoming,2007,39925
+Alabama,2008,30060
+Alaska,2008,43193
+Arizona,2008,32036
+Arkansas,2008,28916
+California,2008,37601
+Colorado,2008,37580
+Connecticut,2008,50944
+Delaware,2008,36279
+District of Columbia,2008,51376
+Florida,2008,35207
+Georgia,2008,31329
+Hawaii,2008,37440
+Idaho,2008,29349
+Illinois,2008,37808
+Indiana,2008,31478
+Iowa,2008,34511
+Kansas,2008,36471
+Kentucky,2008,29309
+Louisiana,2008,34439
+Maine,2008,33073
+Maryland,2008,42392
+Massachusetts,2008,43818
+Michigan,2008,31942
+Minnesota,2008,37341
+Mississippi,2008,28099
+Missouri,2008,32963
+Montana,2008,31812
+Nebraska,2008,36096
+Nevada,2008,34684
+New Hampshire,2008,41027
+New Jersey,2008,44165
+New Mexico,2008,30431
+New York,2008,39676
+North Carolina,2008,33713
+North Dakota,2008,36851
+Ohio,2008,32431
+Oklahoma,2008,35169
+Oregon,2008,32286
+Pennsylvania,2008,36510
+Rhode Island,2008,36711
+South Carolina,2008,29877
+South Dakota,2008,37495
+Tennessee,2008,32022
+Texas,2008,35587
+Utah,2008,30139
+Vermont,2008,36434
+Virginia,2008,39567
+Washington,2008,39703
+West Virginia,2008,28305
+Wisconsin,2008,34281
+Wyoming,2008,43653
+Alabama,2009,30104
+Alaska,2009,43684
+Arizona,2009,30892
+Arkansas,2009,28802
+California,2009,37290
+Colorado,2009,36237
+Connecticut,2009,52338
+Delaware,2009,37190
+District of Columbia,2009,52307
+Florida,2009,33879
+Georgia,2009,31160
+Hawaii,2009,37599
+Idaho,2009,28713
+Illinois,2009,37067
+Indiana,2009,31242
+Iowa,2009,34037
+Kansas,2009,35876
+Kentucky,2009,29360
+Louisiana,2009,33867
+Maine,2009,33916
+Maryland,2009,42894
+Massachusetts,2009,44801
+Michigan,2009,31388
+Minnesota,2009,36641
+Mississippi,2009,28153
+Missouri,2009,33128
+Montana,2009,31475
+Nebraska,2009,36123
+Nevada,2009,33092
+New Hampshire,2009,41593
+New Jersey,2009,44210
+New Mexico,2009,30295
+New York,2009,40661
+North Carolina,2009,32788
+North Dakota,2009,36878
+Ohio,2009,32281
+Oklahoma,2009,32982
+Oregon,2009,31784
+Pennsylvania,2009,36514
+Rhode Island,2009,36857
+South Carolina,2009,29460
+South Dakota,2009,36885
+Tennessee,2009,32241
+Texas,2009,34410
+Utah,2009,28956
+Vermont,2009,37041
+Virginia,2009,39467
+Washington,2009,38458
+West Virginia,2009,28992
+Wisconsin,2009,34485
+Wyoming,2009,40914
+Alabama,2010,31090
+Alaska,2010,45803
+Arizona,2010,31059
+Arkansas,2010,29569
+California,2010,38364
+Colorado,2010,36522
+Connecticut,2010,53613
+Delaware,2010,37145
+District of Columbia,2010,55444
+Florida,2010,35673
+Georgia,2010,31536
+Hawaii,2010,38004
+Idaho,2010,29404
+Illinois,2010,37816
+Indiana,2010,32427
+Iowa,2010,34811
+Kansas,2010,36135
+Kentucky,2010,30208
+Louisiana,2010,35121
+Maine,2010,34735
+Maryland,2010,43933
+Massachusetts,2010,46212
+Michigan,2010,32498
+Minnesota,2010,37885
+Mississippi,2010,28902
+Missouri,2010,33719
+Montana,2010,32946
+Nebraska,2010,37520
+Nevada,2010,34194
+New Hampshire,2010,43139
+New Jersey,2010,45092
+New Mexico,2010,31133
+New York,2010,41862
+North Carolina,2010,32610
+North Dakota,2010,40260
+Ohio,2010,33042
+Oklahoma,2010,34211
+Oregon,2010,32252
+Pennsylvania,2010,37915
+Rhode Island,2010,38650
+South Carolina,2010,30132
+South Dakota,2010,38533
+Tennessee,2010,33456
+Texas,2010,35830
+Utah,2010,29218
+Vermont,2010,38042
+Virginia,2010,40560
+Washington,2010,38886
+West Virginia,2010,29891
+Wisconsin,2010,35286
+Wyoming,2010,42254
+Alabama,2011,31757
+Alaska,2011,48150
+Arizona,2011,31992
+Arkansas,2011,31103
+California,2011,39963
+Colorado,2011,38647
+Connecticut,2011,54085
+Delaware,2011,39039
+District of Columbia,2011,57947
+Florida,2011,36770
+Georgia,2011,33092
+Hawaii,2011,38830
+Idaho,2011,30504
+Illinois,2011,38874
+Indiana,2011,33994
+Iowa,2011,36895
+Kansas,2011,38606
+Kentucky,2011,31242
+Louisiana,2011,35738
+Maine,2011,35745
+Maryland,2011,45329
+Massachusetts,2011,47171
+Michigan,2011,33962
+Minnesota,2011,39696
+Mississippi,2011,30068
+Missouri,2011,34639
+Montana,2011,34553
+Nebraska,2011,41492
+Nevada,2011,35183
+New Hampshire,2011,44567
+New Jersey,2011,46108
+New Mexico,2011,32176
+New York,2011,43134
+North Carolina,2011,33078
+North Dakota,2011,43876
+Ohio,2011,34803
+Oklahoma,2011,36064
+Oregon,2011,33246
+Pennsylvania,2011,39331
+Rhode Island,2011,39412
+South Carolina,2011,31360
+South Dakota,2011,41187
+Tennessee,2011,34933
+Texas,2011,38142
+Utah,2011,30757
+Vermont,2011,39630
+Virginia,2011,41937
+Washington,2011,40143
+West Virginia,2011,31223
+Wisconsin,2011,36714
+Wyoming,2011,45973
+Alabama,2012,32495
+Alaska,2012,49166
+Arizona,2012,33047
+Arkansas,2012,33084
+California,2012,41887
+Colorado,2012,40250
+Connecticut,2012,54461
+Delaware,2012,39103
+District of Columbia,2012,57885
+Florida,2012,37389
+Georgia,2012,33557
+Hawaii,2012,39486
+Idaho,2012,31724
+Illinois,2012,40460
+Indiana,2012,35468
+Iowa,2012,38303
+Kansas,2012,40541
+Kentucky,2012,32256
+Louisiana,2012,37094
+Maine,2012,36213
+Maryland,2012,45979
+Massachusetts,2012,48671
+Michigan,2012,35103
+Minnesota,2012,41710
+Mississippi,2012,30924
+Missouri,2012,36101
+Montana,2012,36292
+Nebraska,2012,41952
+Nevada,2012,36057
+New Hampshire,2012,46246
+New Jersey,2012,47568
+New Mexico,2012,32806
+New York,2012,44938
+North Carolina,2012,35088
+North Dakota,2012,50127
+Ohio,2012,36040
+Oklahoma,2012,38113
+Oregon,2012,34724
+Pennsylvania,2012,40795
+Rhode Island,2012,40684
+South Carolina,2012,32672
+South Dakota,2012,41368
+Tennessee,2012,36224
+Texas,2012,39916
+Utah,2012,32084
+Vermont,2012,40749
+Virginia,2012,43457
+Washington,2012,42763
+West Virginia,2012,32103
+Wisconsin,2012,38163
+Wyoming,2012,47751
+Alabama,2013,32393
+Alaska,2013,47672
+Arizona,2013,33277
+Arkansas,2013,32791
+California,2013,41447
+Colorado,2013,41359
+Connecticut,2013,51845
+Delaware,2013,38989
+District of Columbia,2013,56871
+Florida,2013,36535
+Georgia,2013,33413
+Hawaii,2013,39069
+Idaho,2013,32308
+Illinois,2013,40770
+Indiana,2013,35450
+Iowa,2013,38512
+Kansas,2013,40946
+Kentucky,2013,32120
+Louisiana,2013,37138
+Maine,2013,35883
+Maryland,2013,44886
+Massachusetts,2013,47547
+Michigan,2013,34957
+Minnesota,2013,41132
+Mississippi,2013,31236
+Missouri,2013,35887
+Montana,2013,35947
+Nebraska,2013,41178
+Nevada,2013,35223
+New Hampshire,2013,45498
+New Jersey,2013,46895
+New Mexico,2013,31690
+New York,2013,44153
+North Carolina,2013,33955
+North Dakota,2013,48021
+Ohio,2013,36225
+Oklahoma,2013,39541
+Oregon,2013,34501
+Pennsylvania,2013,40628
+Rhode Island,2013,40014
+South Carolina,2013,32447
+South Dakota,2013,41106
+Tennessee,2013,35962
+Texas,2013,40035
+Utah,2013,32226
+Vermont,2013,40743
+Virginia,2013,42195
+Washington,2013,42638
+West Virginia,2013,31766
+Wisconsin,2013,37806
+Wyoming,2013,46955
+Alabama,2014,33344
+Alaska,2014,50263
+Arizona,2014,34484
+Arkansas,2014,34570
+California,2014,43466
+Colorado,2014,44034
+Connecticut,2014,53970
+Delaware,2014,40291
+District of Columbia,2014,59757
+Florida,2014,38295
+Georgia,2014,35232
+Hawaii,2014,40724
+Idaho,2014,33548
+Illinois,2014,42308
+Indiana,2014,36635
+Iowa,2014,39519
+Kansas,2014,41501
+Kentucky,2014,33398
+Louisiana,2014,38502
+Maine,2014,36986
+Maryland,2014,45866
+Massachusetts,2014,48990
+Michigan,2014,36347
+Minnesota,2014,42752
+Mississippi,2014,31849
+Missouri,2014,36948
+Montana,2014,37301
+Nebraska,2014,43146
+Nevada,2014,36999
+New Hampshire,2014,46708
+New Jersey,2014,48634
+New Mexico,2014,33558
+New York,2014,45276
+North Carolina,2014,35572
+North Dakota,2014,50091
+Ohio,2014,37631
+Oklahoma,2014,41614
+Oregon,2014,36391
+Pennsylvania,2014,41927
+Rhode Island,2014,41280
+South Carolina,2014,34166
+South Dakota,2014,42543
+Tennessee,2014,36891
+Texas,2014,42016
+Utah,2014,33527
+Vermont,2014,42097
+Virginia,2014,43523
+Washington,2014,45011
+West Virginia,2014,32753
+Wisconsin,2014,39199
+Wyoming,2014,50073
+Alabama,2015,34531
+Alaska,2015,51514
+Arizona,2015,35723
+Arkansas,2015,35424
+California,2015,45853
+Colorado,2015,44772
+Connecticut,2015,55283
+Delaware,2015,41771
+District of Columbia,2015,62941
+Florida,2015,40701
+Georgia,2015,37340
+Hawaii,2015,42036
+Idaho,2015,35424
+Illinois,2015,43525
+Indiana,2015,38510
+Iowa,2015,40788
+Kansas,2015,42042
+Kentucky,2015,34800
+Louisiana,2015,39478
+Maine,2015,37998
+Maryland,2015,47004
+Massachusetts,2015,50201
+Michigan,2015,37989
+Minnesota,2015,44199
+Mississippi,2015,32943
+Missouri,2015,38016
+Montana,2015,38803
+Nebraska,2015,44198
+Nevada,2015,38626
+New Hampshire,2015,48366
+New Jersey,2015,50024
+New Mexico,2015,35028
+New York,2015,47045
+North Carolina,2015,37038
+North Dakota,2015,50435
+Ohio,2015,39023
+Oklahoma,2015,42049
+Oregon,2015,38260
+Pennsylvania,2015,43259
+Rhode Island,2015,42939
+South Carolina,2015,35930
+South Dakota,2015,43977
+Tennessee,2015,38495
+Texas,2015,43362
+Utah,2015,35079
+Vermont,2015,42939
+Virginia,2015,45032
+Washington,2015,47124
+West Virginia,2015,33418
+Wisconsin,2015,40728
+Wyoming,2015,51094
+Alabama,2016,34912
+Alaska,2016,50719
+Arizona,2016,36895
+Arkansas,2016,36198
+California,2016,47720
+Colorado,2016,44521
+Connecticut,2016,56979
+Delaware,2016,42636
+District of Columbia,2016,65669
+Florida,2016,42036
+Georgia,2016,38803
+Hawaii,2016,42939
+Idaho,2016,36895
+Illinois,2016,44737
+Indiana,2016,39111
+Iowa,2016,41357
+Kansas,2016,42939
+Kentucky,2016,35401
+Louisiana,2016,40050
+Maine,2016,38699
+Maryland,2016,48915
+Massachusetts,2016,52377
+Michigan,2016,39442
+Minnesota,2016,45620
+Mississippi,2016,33596
+Missouri,2016,39111
+Montana,2016,40014
+Nebraska,2016,45032
+Nevada,2016,39963
+New Hampshire,2016,49980
+New Jersey,2016,51276
+New Mexico,2016,35930
+New York,2016,48915
+North Carolina,2016,38647
+North Dakota,2016,50509
+Ohio,2016,40488
+Oklahoma,2016,42308
+Oregon,2016,39442
+Pennsylvania,2016,44737
+Rhode Island,2016,44199
+South Carolina,2016,36895
+South Dakota,2016,45032
+Tennessee,2016,39703
+Texas,2016,44737
+Utah,2016,36895
+Vermont,2016,43684
+Virginia,2016,46212
+Washington,2016,48915
+West Virginia,2016,33916
+Wisconsin,2016,42042
+Wyoming,2016,51447
+Alabama,2017,36166
+Alaska,2017,51925
+Arizona,2017,38803
+Arkansas,2017,37340
+California,2017,49753
+Colorado,2017,47191
+Connecticut,2017,58242
+Delaware,2017,44182
+District of Columbia,2017,67462
+Florida,2017,44737
+Georgia,2017,40736
+Hawaii,2017,44737
+Idaho,2017,39010
+Illinois,2017,47004
+Indiana,2017,40736
+Iowa,2017,43193
+Kansas,2017,44737
+Kentucky,2017,37131
+Louisiana,2017,41447
+Maine,2017,40143
+Maryland,2017,50719
+Massachusetts,2017,54899
+Michigan,2017,40736
+Minnesota,2017,47720
+Mississippi,2017,34484
+Missouri,2017,40736
+Montana,2017,42036
+Nebraska,2017,47004
+Nevada,2017,41927
+New Hampshire,2017,52048
+New Jersey,2017,53664
+New Mexico,2017,37580
+New York,2017,50944
+North Carolina,2017,40736
+North Dakota,2017,51514
+Ohio,2017,42036
+Oklahoma,2017,44737
+Oregon,2017,41887
+Pennsylvania,2017,47004
+Rhode Island,2017,45620
+South Carolina,2017,39010
+South Dakota,2017,47124
+Tennessee,2017,41447
+Texas,2017,47004
+Utah,2017,39963
+Vermont,2017,44737
+Virginia,2017,48150
+Washington,2017,51764
+West Virginia,2017,34912
+Wisconsin,2017,43684
+Wyoming,2017,51764
+Alabama,2018,37639
+Alaska,2018,54642
+Arizona,2018,40736
+Arkansas,2018,39144
+California,2018,52048
+Colorado,2018,50732
+Connecticut,2018,61208
+Delaware,2018,46705
+District of Columbia,2018,69518
+Florida,2018,47004
+Georgia,2018,42759
+Hawaii,2018,47004
+Idaho,2018,42036
+Illinois,2018,50719
+Indiana,2018,42939
+Iowa,2018,45032
+Kansas,2018,47004
+Kentucky,2018,39963
+Louisiana,2018,43818
+Maine,2018,42036
+Maryland,2018,54899
+Massachusetts,2018,58242
+Michigan,2018,42939
+Minnesota,2018,50263
+Mississippi,2018,36347
+Missouri,2018,42939
+Montana,2018,44737
+Nebraska,2018,48915
+Nevada,2018,44521
+New Hampshire,2018,54728
+New Jersey,2018,56575
+New Mexico,2018,39703
+New York,2018,53664
+North Carolina,2018,42939
+North Dakota,2018,54951
+Ohio,2018,44199
+Oklahoma,2018,47004
+Oregon,2018,43977
+Pennsylvania,2018,49753
+Rhode Island,2018,47720
+South Carolina,2018,40736
+South Dakota,2018,48915
+Tennessee,2018,43466
+Texas,2018,49753
+Utah,2018,41927
+Vermont,2018,44737
+Virginia,2018,50509
+Washington,2018,54728
+West Virginia,2018,36166
+Wisconsin,2018,45853
+Wyoming,2018,53086
+Alabama,2019,39010
+Alaska,2019,55794
+Arizona,2019,42759
+Arkansas,2019,39700
+California,2019,54899
+Colorado,2019,53664
+Connecticut,2019,62942
+Delaware,2019,47332
+District of Columbia,2019,70144
+Florida,2019,48915
+Georgia,2019,44737
+Hawaii,2019,48915
+Idaho,2019,44521
+Illinois,2019,52377
+Indiana,2019,44737
+Iowa,2019,47004
+Kansas,2019,48915
+Kentucky,2019,41887
+Louisiana,2019,45853
+Maine,2019,43684
+Maryland,2019,56575
+Massachusetts,2019,61591
+Michigan,2019,44737
+Minnesota,2019,51925
+Mississippi,2019,38016
+Missouri,2019,44737
+Montana,2019,47004
+Nebraska,2019,50719
+Nevada,2019,46212
+New Hampshire,2019,56575
+New Jersey,2019,58242
+New Mexico,2019,41447
+New York,2019,55535
+North Carolina,2019,44737
+North Dakota,2019,56575
+Ohio,2019,46212
+Oklahoma,2019,48915
+Oregon,2019,45620
+Pennsylvania,2019,51514
+Rhode Island,2019,49980
+South Carolina,2019,42042
+South Dakota,2019,50719
+Tennessee,2019,45620
+Texas,2019,51764
+Utah,2019,43977
+Vermont,2019,45620
+Virginia,2019,53463
+Washington,2019,58242
+West Virginia,2019,38016
+Wisconsin,2019,47720
+Wyoming,2019,53086
+Alabama,2020,41842
+Alaska,2020,57377
+Arizona,2020,46948
+Arkansas,2020,42988
+California,2020,60040
+Colorado,2020,56985
+Connecticut,2020,65270
+Delaware,2020,48993
+District of Columbia,2020,76361
+Florida,2020,52377
+Georgia,2020,47004
+Hawaii,2020,52377
+Idaho,2020,48150
+Illinois,2020,56575
+Indiana,2020,47004
+Iowa,2020,50509
+Kansas,2020,52377
+Kentucky,2020,45329
+Louisiana,2020,48671
+Maine,2020,46212
+Maryland,2020,60040
+Massachusetts,2020,64426
+Michigan,2020,48671
+Minnesota,2020,56575
+Mississippi,2020,41927
+Missouri,2020,47191
+Montana,2020,50944
+Nebraska,2020,54728
+Nevada,2020,47004
+New Hampshire,2020,57087
+New Jersey,2020,60040
+New Mexico,2020,44737
+New York,2020,58242
+North Carolina,2020,47004
+North Dakota,2020,57698
+Ohio,2020,47720
+Oklahoma,2020,50263
+Oregon,2020,47720
+Pennsylvania,2020,53463
+Rhode Island,2020,53664
+South Carolina,2020,44199
+South Dakota,2020,53086
+Tennessee,2020,45329
+Texas,2020,54461
+Utah,2020,46212
+Vermont,2020,47720
+Virginia,2020,55794
+Washington,2020,60591
+West Virginia,2020,38803
+Wisconsin,2020,50091
+Wyoming,2020,53664
+Alabama,2021,45901
+Alaska,2021,60591
+Arizona,2021,50979
+Arkansas,2021,48181
+California,2021,64674
+Colorado,2021,62446
+Connecticut,2021,68888
+Delaware,2021,52300
+District of Columbia,2021,82374
+Florida,2021,56575
+Georgia,2021,50719
+Hawaii,2021,56575
+Idaho,2021,50719
+Illinois,2021,60040
+Indiana,2021,50509
+Iowa,2021,54461
+Kansas,2021,56575
+Kentucky,2021,48915
+Louisiana,2021,53664
+Maine,2021,48915
+Maryland,2021,64426
+Massachusetts,2021,68888
+Michigan,2021,51514
+Minnesota,2021,60040
+Mississippi,2021,45853
+Missouri,2021,50719
+Montana,2021,54899
+Nebraska,2021,58242
+Nevada,2021,51764
+New Hampshire,2021,60591
+New Jersey,2021,64426
+New Mexico,2021,48150
+New York,2021,61591
+North Carolina,2021,50719
+North Dakota,2021,60341
+Ohio,2021,51925
+Oklahoma,2021,53970
+Oregon,2021,51276
+Pennsylvania,2021,56979
+Rhode Island,2021,56979
+South Carolina,2021,48671
+South Dakota,2021,57087
+Tennessee,2021,48915
+Texas,2021,58242
+Utah,2021,50719
+Vermont,2021,50509
+Virginia,2021,58242
+Washington,2021,63662
+West Virginia,2021,42939
+Wisconsin,2021,53463
+Wyoming,2021,53970
+Alabama,2022,45879
+Alaska,2022,62617
+Arizona,2022,51663
+Arkansas,2022,47771
+California,2022,63662
+Colorado,2022,65470
+Connecticut,2022,69664
+Delaware,2022,54846
+District of Columbia,2022,80764
+Florida,2022,61591
+Georgia,2022,54642
+Hawaii,2022,58242
+Idaho,2022,53664
+Illinois,2022,61591
+Indiana,2022,50719
+Iowa,2022,55794
+Kansas,2022,58242
+Kentucky,2022,50263
+Louisiana,2022,55794
+Maine,2022,49980
+Maryland,2022,65669
+Massachusetts,2022,69518
+Michigan,2022,52377
+Minnesota,2022,61208
+Mississippi,2022,47004
+Missouri,2022,53463
+Montana,2022,58242
+Nebraska,2022,60040
+Nevada,2022,53664
+New Hampshire,2022,62942
+New Jersey,2022,65669
+New Mexico,2022,50263
+New York,2022,63662
+North Carolina,2022,54899
+North Dakota,2022,61958
+Ohio,2022,52852
+Oklahoma,2022,56004
+Oregon,2022,53970
+Pennsylvania,2022,58915
+Rhode Island,2022,57698
+South Carolina,2022,50509
+South Dakota,2022,57885
+Tennessee,2022,51925
+Texas,2022,60040
+Utah,2022,52852
+Vermont,2022,52852
+Virginia,2022,60040
+Washington,2022,64426
+West Virginia,2022,44737
+Wisconsin,2022,54899
+Wyoming,2022,55794
+Alabama,2023,49543
+Alaska,2023,66659
+Arizona,2023,56770
+Arkansas,2023,51548
+California,2023,69536
+Colorado,2023,70798
+Connecticut,2023,76430
+Delaware,2023,56505
+District of Columbia,2023,88453
+Florida,2023,64426
+Georgia,2023,58242
+Hawaii,2023,61591
+Idaho,2023,56575
+Illinois,2023,66659
+Indiana,2023,54642
+Iowa,2023,60591
+Kansas,2023,62942
+Kentucky,2023,54642
+Louisiana,2023,60040
+Maine,2023,53463
+Maryland,2023,69518
+Massachusetts,2023,70144
+Michigan,2023,55794
+Minnesota,2023,63662
+Mississippi,2023,48915
+Missouri,2023,56575
+Montana,2023,60040
+Nebraska,2023,61591
+Nevada,2023,56575
+New Hampshire,2023,65669
+New Jersey,2023,69518
+New Mexico,2023,52377
+New York,2023,65669
+North Carolina,2023,58915
+North Dakota,2023,64426
+Ohio,2023,55794
+Oklahoma,2023,58242
+Oregon,2023,56575
+Pennsylvania,2023,61958
+Rhode Island,2023,60040
+South Carolina,2023,53664
+South Dakota,2023,60040
+Tennessee,2023,54899
+Texas,2023,62942
+Utah,2023,54899
+Vermont,2023,54899
+Virginia,2023,62942
+Washington,2023,67462
+West Virginia,2023,47004
+Wisconsin,2023,58242
+Wyoming,2023,55794
+Alabama,2024,51997
+Alaska,2024,70193
+Arizona,2024,59339
+Arkansas,2024,54137
+California,2024,73684
+Colorado,2024,73513
+Connecticut,2024,80694
+Delaware,2024,59650
+District of Columbia,2024,92365
+Florida,2024,67462
+Georgia,2024,60830
+Hawaii,2024,63662
+Idaho,2024,58242
+Illinois,2024,68888
+Indiana,2024,56575
+Iowa,2024,62942
+Kansas,2024,65669
+Kentucky,2024,56575
+Louisiana,2024,62942
+Maine,2024,55794
+Maryland,2024,73684
+Massachusetts,2024,73684
+Michigan,2024,58242
+Minnesota,2024,65669
+Mississippi,2024,51764
+Missouri,2024,58915
+Montana,2024,62942
+Nebraska,2024,64426
+Nevada,2024,58242
+New Hampshire,2024,68888
+New Jersey,2024,73684
+New Mexico,2024,54899
+New York,2024,67462
+North Carolina,2024,61208
+North Dakota,2024,66827
+Ohio,2024,57698
+Oklahoma,2024,60591
+Oregon,2024,58242
+Pennsylvania,2024,64426
+Rhode Island,2024,62617
+South Carolina,2024,55794
+South Dakota,2024,61208
+Tennessee,2024,56575
+Texas,2024,65669
+Utah,2024,57698
+Vermont,2024,56575
+Virginia,2024,64426
+Washington,2024,70798
+West Virginia,2024,48915
+Wisconsin,2024,60591
+Wyoming,2024,57087
